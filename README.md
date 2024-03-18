@@ -43,6 +43,7 @@ const { analyzePagePerformance } = require('web-performance-analyzer');
 ## 📆 Release Date
 
 * v1.0.0 : 17 March 2024
+* v1.0.1 : 18 March 2024
 
 ## 🧑 Author
 
